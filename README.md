@@ -9,3 +9,4 @@
 - [邓小平时代](https://github.com/william-hyx/books/issues/4)
 - [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
 - [三国谍影](https://github.com/william-hyx/books/issues/38)
+- [本案告破](https://github.com/william-hyx/books/issues/39)
