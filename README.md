@@ -8,3 +8,4 @@
 - [慈溪全传](https://github.com/william-hyx/books/issues/2)
 - [邓小平时代](https://github.com/william-hyx/books/issues/4)
 - [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
+- [三国谍影](https://github.com/william-hyx/books/issues/38)
