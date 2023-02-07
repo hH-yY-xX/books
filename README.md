@@ -16,3 +16,4 @@
 ### 2023
 
 - [李光耀观天下](https://github.com/william-hyx/books/issues/41)
+- [态度](https://github.com/william-hyx/books/issues/42)
