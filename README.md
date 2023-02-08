@@ -17,3 +17,4 @@
 
 - [李光耀观天下](https://github.com/william-hyx/books/issues/41)
 - [态度](https://github.com/william-hyx/books/issues/42)
+- [曾仕强品三国：一本书读懂三国背后的职场江湖](https://github.com/william-hyx/books/issues/49)
