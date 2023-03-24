@@ -19,3 +19,5 @@
 - [态度](https://github.com/william-hyx/books/issues/42)
 - [曾仕强品三国：一本书读懂三国背后的职场江湖](https://github.com/william-hyx/books/issues/49)
 - ["红色风暴"行动](https://github.com/william-hyx/books/issues/47)
+- [治世：大清帝国的兴亡启示](https://github.com/william-hyx/books/issues/50)
+- [深度学习入门](https://github.com/william-hyx/books/issues/51)
