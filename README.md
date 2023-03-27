@@ -21,3 +21,4 @@
 - ["红色风暴"行动](https://github.com/william-hyx/books/issues/47)
 - [治世：大清帝国的兴亡启示](https://github.com/william-hyx/books/issues/50)
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
+- [清史十五讲](https://github.com/william-hyx/books/issues/52)
