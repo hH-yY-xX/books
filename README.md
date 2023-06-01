@@ -22,3 +22,4 @@
 - [治世：大清帝国的兴亡启示](https://github.com/william-hyx/books/issues/50)
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
 - [清史十五讲](https://github.com/william-hyx/books/issues/52)
+- [ON JAVA中文版基础卷+进阶卷](https://github.com/william-hyx/books/issues/54)
