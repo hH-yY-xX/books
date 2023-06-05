@@ -23,3 +23,4 @@
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
 - [清史十五讲](https://github.com/william-hyx/books/issues/52)
 - [ON JAVA中文版基础卷+进阶卷](https://github.com/william-hyx/books/issues/54)
+- [置身事内：中国政府与经济发展](https://github.com/william-hyx/books/issues/16)
