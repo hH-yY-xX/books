@@ -25,4 +25,4 @@
 - [ON JAVA中文版基础卷+进阶卷](https://github.com/william-hyx/books/issues/54)
 - [置身事内：中国政府与经济发展](https://github.com/william-hyx/books/issues/16) (完成)
 - [叙利亚战争启示录](https://github.com/william-hyx/books/issues/59) (X)
-- [鬼吹灯](https://github.com/william-hyx/books/issues/60)
+- [鬼吹灯](https://github.com/william-hyx/books/issues/60)（完成）
