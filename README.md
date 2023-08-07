@@ -26,4 +26,4 @@
 - [置身事内：中国政府与经济发展](https://github.com/william-hyx/books/issues/16) (完成)
 - [叙利亚战争启示录](https://github.com/william-hyx/books/issues/59) (X)
 - [鬼吹灯](https://github.com/william-hyx/books/issues/60)（完成）
-- [大唐悬疑录：最后的狄仁杰](https://github.com/william-hyx/books/issues/61)
+- [大唐悬疑录：最后的狄仁杰](https://github.com/william-hyx/books/issues/61)（完成）
