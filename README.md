@@ -28,4 +28,5 @@
 - [鬼吹灯](https://github.com/william-hyx/books/issues/60)（完成）
 - [大唐悬疑录：最后的狄仁杰](https://github.com/william-hyx/books/issues/61)（完成）
 - [长安的荔枝](https://github.com/william-hyx/books/issues/62)（完成）
+- [翦商：殷商之变与华夏新生](https://github.com/william-hyx/books/issues/63)
 
