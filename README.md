@@ -27,5 +27,5 @@
 - [叙利亚战争启示录](https://github.com/william-hyx/books/issues/59) (X)
 - [鬼吹灯](https://github.com/william-hyx/books/issues/60)（完成）
 - [大唐悬疑录：最后的狄仁杰](https://github.com/william-hyx/books/issues/61)（完成）
-- [长安的荔枝](https://github.com/william-hyx/books/issues/62)
+- [长安的荔枝](https://github.com/william-hyx/books/issues/62)（完成）
 
