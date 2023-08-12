@@ -29,4 +29,4 @@
 - [大唐悬疑录：最后的狄仁杰](https://github.com/william-hyx/books/issues/61)（完成）
 - [长安的荔枝](https://github.com/william-hyx/books/issues/62)（完成）
 - [翦商：殷商之变与华夏新生](https://github.com/william-hyx/books/issues/63)
-
+- [五角大楼之脑](https://github.com/william-hyx/books/issues/64)
