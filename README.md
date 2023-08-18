@@ -30,3 +30,4 @@
 - [长安的荔枝](https://github.com/william-hyx/books/issues/62)（完成）
 - [翦商：殷商之变与华夏新生](https://github.com/william-hyx/books/issues/63)
 - [五角大楼之脑](https://github.com/william-hyx/books/issues/64)
+- [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)
