@@ -32,5 +32,5 @@
 - [五角大楼之脑](https://github.com/william-hyx/books/issues/64)
 - [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)
 - [成为雍正](https://github.com/william-hyx/books/issues/66)（完成）
-- [天下商帮](https://github.com/william-hyx/books/issues/67)
+- [天下商帮(1/2)](https://github.com/william-hyx/books/issues/67)
 - [大国大城](https://github.com/william-hyx/books/issues/68)
