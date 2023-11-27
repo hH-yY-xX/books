@@ -34,3 +34,4 @@
 - [成为雍正](https://github.com/william-hyx/books/issues/66)（完成）
 - [天下商帮(1/2)](https://github.com/william-hyx/books/issues/67)
 - [大国大城](https://github.com/william-hyx/books/issues/68)
+- [掌舵1/2/3](https://github.com/william-hyx/books/issues/69)
