@@ -39,4 +39,5 @@
 ### 2024
 
 - [九宫格写作法：如何写出一篇好文章](https://github.com/william-hyx/books/issues/70)
+- [沈醉回忆录：人鬼之间](https://github.com/william-hyx/books/issues/71)
 
