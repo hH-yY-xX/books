@@ -41,5 +41,5 @@
 - [九宫格写作法：如何写出一篇好文章](https://github.com/william-hyx/books/issues/70)（完成）
 - [沈醉回忆录：人鬼之间](https://github.com/william-hyx/books/issues/71)（完成）
 - [周恩来最后600天](https://github.com/william-hyx/books/issues/72)（完成）
-- [如何写出一篇好文章](https://github.com/william-hyx/books/issues/73)
+- [如何写出一篇好文章](https://github.com/william-hyx/books/issues/73)（完成）
 
