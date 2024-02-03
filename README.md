@@ -44,5 +44,5 @@
 - [如何写出一篇好文章](https://github.com/william-hyx/books/issues/73)（完成）
 - [法医秦明：尸语者](https://github.com/william-hyx/books/issues/74)（完成）
 - [法医秦明：无声的证词](https://github.com/william-hyx/books/issues/75)（完成）
-- [法医秦明：第十一根手指](https://github.com/william-hyx/books/issues/76)
+- [法医秦明：第十一根手指](https://github.com/william-hyx/books/issues/76)（完成）
 
