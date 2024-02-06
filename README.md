@@ -45,5 +45,5 @@
 - [法医秦明：尸语者](https://github.com/william-hyx/books/issues/74)（完成）
 - [法医秦明：无声的证词](https://github.com/william-hyx/books/issues/75)（完成）
 - [法医秦明：第十一根手指](https://github.com/william-hyx/books/issues/76)（完成）
-- [法医秦明：清道夫](https://github.com/william-hyx/books/issues/77)
+- [法医秦明：清道夫](https://github.com/william-hyx/books/issues/77)（完成）
 
