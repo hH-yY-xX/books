@@ -47,4 +47,5 @@
 - [法医秦明：第十一根手指](https://github.com/william-hyx/books/issues/76)（完成）
 - [法医秦明：清道夫](https://github.com/william-hyx/books/issues/77)（完成）
 - [法医秦明：幸存者](https://github.com/william-hyx/books/issues/78)（完成）
+- [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
 
