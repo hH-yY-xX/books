@@ -30,7 +30,6 @@
 - [长安的荔枝](https://github.com/william-hyx/books/issues/62)（完成）
 - [翦商：殷商之变与华夏新生](https://github.com/william-hyx/books/issues/63)
 - [五角大楼之脑](https://github.com/william-hyx/books/issues/64)
-- [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)
 - [成为雍正](https://github.com/william-hyx/books/issues/66)（完成）
 - [天下商帮1/2](https://github.com/william-hyx/books/issues/67)（完成）
 - [大国大城](https://github.com/william-hyx/books/issues/68)（完成）
@@ -48,4 +47,5 @@
 - [法医秦明：清道夫](https://github.com/william-hyx/books/issues/77)（完成）
 - [法医秦明：幸存者](https://github.com/william-hyx/books/issues/78)（完成）
 - [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
+- [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)（完成）
 
