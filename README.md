@@ -48,5 +48,5 @@
 - [法医秦明：幸存者](https://github.com/william-hyx/books/issues/78)（完成）
 - [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
 - [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)（完成）
-- [打开心智](https://github.com/william-hyx/books/issues/81)
+- [打开心智](https://github.com/william-hyx/books/issues/81)（完成）
 
