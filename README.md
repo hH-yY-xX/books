@@ -50,4 +50,5 @@
 - [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)（完成）
 - [打开心智](https://github.com/william-hyx/books/issues/81)（完成）
 - [妈妈教的数学](https://github.com/william-hyx/books/issues/83)（完成）
+- [做孩子最好的英语学习规划师](https://github.com/william-hyx/books/issues/84)
 
