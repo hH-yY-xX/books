@@ -56,4 +56,5 @@
 - [人际的奥秘：曾仕强告诉你如何搞好人际关系](https://github.com/william-hyx/books/issues/87)
 - [潜规则：中国历史中的真实游戏](https://github.com/william-hyx/books/issues/88)（X）
 - [唐诗三百首](https://github.com/william-hyx/books/issues/89)（完成）
+- [毛泽东文集（第一卷）](https://github.com/william-hyx/books/issues/90)
 
