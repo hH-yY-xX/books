@@ -53,7 +53,7 @@
 - [做孩子最好的英语学习规划师](https://github.com/william-hyx/books/issues/84)
 - [软技能：代码之外的生存指南](https://github.com/william-hyx/books/issues/85)（完成）
 - [软技能2：软件开发者职业生涯指南](https://github.com/william-hyx/books/issues/86)（X）
-- [人际的奥秘：曾仕强告诉你如何搞好人际关系](https://github.com/william-hyx/books/issues/87)
+- [人际的奥秘：曾仕强告诉你如何搞好人际关系](https://github.com/william-hyx/books/issues/87)（完成）
 - [潜规则：中国历史中的真实游戏](https://github.com/william-hyx/books/issues/88)（X）
 - [唐诗三百首](https://github.com/william-hyx/books/issues/89)（完成）
 - [毛泽东文集（第一卷）](https://github.com/william-hyx/books/issues/90)
