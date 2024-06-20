@@ -59,4 +59,5 @@
 - [毛泽东文集（第一卷）](https://github.com/william-hyx/books/issues/90)
 - [通用源码阅读指导书：MyBatis源码详解](https://github.com/william-hyx/books/issues/91)（完成）
 - [交接香港：亲历中英谈判最后1208天](https://github.com/william-hyx/books/issues/92)（完成）
+- [袍哥：1940年代川西乡村的暴力与秩序](https://github.com/william-hyx/books/issues/93)
 
