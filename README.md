@@ -7,7 +7,6 @@
 
 ### 2022
 
-- [慈溪全传](https://github.com/william-hyx/books/issues/2) 
 - [邓小平时代](https://github.com/william-hyx/books/issues/4) 
 - [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
 - [三国谍影](https://github.com/william-hyx/books/issues/38) (完成)
@@ -61,4 +60,5 @@
 - [交接香港：亲历中英谈判最后1208天](https://github.com/william-hyx/books/issues/92)（完成）
 - [袍哥：1940年代川西乡村的暴力与秩序](https://github.com/william-hyx/books/issues/93)（完成）
 - [中国的选择：中美博弈与战略抉择](https://github.com/william-hyx/books/issues/94)（完成）
+- [慈禧全传：慈禧前传](https://github.com/william-hyx/books/issues/2) 
 
