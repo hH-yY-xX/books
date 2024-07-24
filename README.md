@@ -60,5 +60,5 @@
 - [通用源码阅读指导书：MyBatis源码详解](https://github.com/william-hyx/books/issues/91)（完成）
 - [交接香港：亲历中英谈判最后1208天](https://github.com/william-hyx/books/issues/92)（完成）
 - [袍哥：1940年代川西乡村的暴力与秩序](https://github.com/william-hyx/books/issues/93)（完成）
-- [中国的选择：中美博弈与战略抉择](https://github.com/william-hyx/books/issues/94)
+- [中国的选择：中美博弈与战略抉择](https://github.com/william-hyx/books/issues/94)（完成）
 
