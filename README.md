@@ -61,5 +61,5 @@
 - [袍哥：1940年代川西乡村的暴力与秩序](https://github.com/william-hyx/books/issues/93)（完成）
 - [中国的选择：中美博弈与战略抉择](https://github.com/william-hyx/books/issues/94)（完成）
 - [慈禧全传：慈禧前传](https://github.com/william-hyx/books/issues/2) （完成）
-- [慈禧全传：玉座珠帘（上）](https://github.com/william-hyx/books/issues/2) 
+- [慈禧全传：玉座珠帘（上）](https://github.com/william-hyx/books/issues/2) （完成）
 
