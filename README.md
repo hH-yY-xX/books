@@ -64,5 +64,6 @@
 - [慈禧全传：玉座珠帘（上）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：玉座珠帘（下）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：清宫外史（上）](https://github.com/william-hyx/books/issues/2)（完成）
-- [慈禧全传：清宫外史（下）](https://github.com/william-hyx/books/issues/3)
+- [慈禧全传：清宫外史（下）](https://github.com/william-hyx/books/issues/2)（完成）
+- [慈禧全传：母子君臣](https://github.com/william-hyx/books/issues/2)
 
