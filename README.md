@@ -67,5 +67,6 @@
 - [慈禧全传：清宫外史（下）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：母子君臣](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：胭脂井（上）](https://github.com/william-hyx/books/issues/2)（完成）
+- [慈禧全传：胭脂井（下）](https://github.com/william-hyx/books/issues/2)
 - [撕裂之城：香港运动的迷与思](https://github.com/william-hyx/books/issues/95)
 
