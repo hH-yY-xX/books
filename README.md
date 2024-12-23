@@ -69,6 +69,6 @@
 - [慈禧全传：胭脂井（上）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：胭脂井（下）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：瀛台落日（上）](https://github.com/william-hyx/books/issues/2)（完成）
-- [慈禧全传：瀛台落日（下）](https://github.com/william-hyx/books/issues/2)
+- [慈禧全传：瀛台落日（下）](https://github.com/william-hyx/books/issues/2)（完成）
 - [撕裂之城：香港运动的迷与思](https://github.com/william-hyx/books/issues/95)
 
