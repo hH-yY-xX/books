@@ -71,5 +71,8 @@
 - [慈禧全传：瀛台落日（上）](https://github.com/william-hyx/books/issues/2)（完成）
 - [慈禧全传：瀛台落日（下）](https://github.com/william-hyx/books/issues/2)（完成）
 - [撕裂之城：香港运动的迷与思](https://github.com/william-hyx/books/issues/95)
-- [川味人间](https://github.com/william-hyx/books/issues/96)
+
+### 2025
+
+- [川味人间](https://github.com/william-hyx/books/issues/96)（完成）
 
