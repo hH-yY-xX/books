@@ -75,4 +75,4 @@
 ### 2025
 
 - [川味人间](https://github.com/william-hyx/books/issues/96)（完成）
-- [模型思维](https://github.com/william-hyx/books/issues/97)
+- [模型思维](https://github.com/william-hyx/books/issues/97)（X）
