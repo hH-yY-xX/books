@@ -77,4 +77,4 @@
 - [川味人间](https://github.com/william-hyx/books/issues/96)（完成）
 - [模型思维](https://github.com/william-hyx/books/issues/97)（X）
 - [我的情报与外交生涯](https://github.com/william-hyx/books/issues/98)（X）
-- [李光耀论中国与世界](https://github.com/william-hyx/books/issues/99)
+- [李光耀论中国与世界](https://github.com/william-hyx/books/issues/99)（完成）
