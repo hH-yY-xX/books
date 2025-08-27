@@ -84,3 +84,4 @@
 - [夹缝中的总督：曾国藩的五次生死局](https://github.com/william-hyx/books/issues/103)（完成）
 - [中国周边外交十四讲](https://github.com/william-hyx/books/issues/104)（完成）
 - [龙门筑道](https://github.com/william-hyx/books/issues/105)（完成）
+- [军统内幕（沈醉回忆录）](https://github.com/william-hyx/books/issues/106)
