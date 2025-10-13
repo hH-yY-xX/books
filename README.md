@@ -87,3 +87,4 @@
 - [军统内幕（沈醉回忆录）](https://github.com/william-hyx/books/issues/106)（完成）
 - [拿起手机，人人都是摄影师：卷毛佟的手机摄影笔记](https://github.com/william-hyx/books/issues/110)（完成）
 - [图解DeepSeek技术](https://github.com/hH-yY-xX/books/issues/109)
+- [用手机拍出非凡照片 华为手机摄影手册](https://github.com/hH-yY-xX/books/issues/111)
