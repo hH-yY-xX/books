@@ -85,5 +85,5 @@
 - [中国周边外交十四讲](https://github.com/william-hyx/books/issues/104)（完成）
 - [龙门筑道](https://github.com/william-hyx/books/issues/105)（完成）
 - [军统内幕（沈醉回忆录）](https://github.com/william-hyx/books/issues/106)（完成）
-- [拿起手机，人人都是摄影师：卷毛佟的手机摄影笔记](https://github.com/william-hyx/books/issues/110)
+- [拿起手机，人人都是摄影师：卷毛佟的手机摄影笔记](https://github.com/william-hyx/books/issues/110)（完成）
 - [图解DeepSeek技术](https://github.com/hH-yY-xX/books/issues/109)
