@@ -19,7 +19,6 @@
 - [曾仕强品三国：一本书读懂三国背后的职场江湖](https://github.com/william-hyx/books/issues/49) (完成)
 - ["红色风暴"行动](https://github.com/william-hyx/books/issues/47)
 - [治世：大清帝国的兴亡启示](https://github.com/william-hyx/books/issues/50) (完成)
-- [深度学习入门](https://github.com/william-hyx/books/issues/51)
 - [清史十五讲](https://github.com/william-hyx/books/issues/52)
 - [ON JAVA中文版基础卷+进阶卷](https://github.com/william-hyx/books/issues/54)
 - [置身事内：中国政府与经济发展](https://github.com/william-hyx/books/issues/16) (完成)
@@ -89,3 +88,4 @@
 - [图解DeepSeek技术](https://github.com/hH-yY-xX/books/issues/109)
 - [用手机拍出非凡照片 华为手机摄影手册](https://github.com/hH-yY-xX/books/issues/111)
 - [华为与荣耀手机摄影/短视频拍摄全攻略](https://github.com/hH-yY-xX/books/issues/112)
+- [深度学习入门](https://github.com/william-hyx/books/issues/51)
