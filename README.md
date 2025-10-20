@@ -89,3 +89,4 @@
 - [用手机拍出非凡照片 华为手机摄影手册](https://github.com/hH-yY-xX/books/issues/111)
 - [华为手机摄影从入门到精通](https://github.com/hH-yY-xX/books/issues/112)（完成）
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
+- [AI Agent 开发与应用：基于大模型的智能体构建](https://github.com/hH-yY-xX/books/issues/113)
