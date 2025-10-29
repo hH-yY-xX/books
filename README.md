@@ -86,7 +86,7 @@
 - [军统内幕（沈醉回忆录）](https://github.com/william-hyx/books/issues/106)（完成）
 - [拿起手机，人人都是摄影师：卷毛佟的手机摄影笔记](https://github.com/william-hyx/books/issues/110)（完成）
 - [图解DeepSeek技术](https://github.com/hH-yY-xX/books/issues/109)
-- [用手机拍出非凡照片 华为手机摄影手册](https://github.com/hH-yY-xX/books/issues/111)
+- [用手机拍出非凡照片 华为手机摄影手册](https://github.com/hH-yY-xX/books/issues/111)（完成）
 - [华为手机摄影从入门到精通](https://github.com/hH-yY-xX/books/issues/112)（完成）
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
 - [AI Agent 开发与应用：基于大模型的智能体构建](https://github.com/hH-yY-xX/books/issues/113)
