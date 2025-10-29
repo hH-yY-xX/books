@@ -8,7 +8,6 @@
 ### 2022
 
 - [邓小平时代](https://github.com/william-hyx/books/issues/4) 
-- [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
 - [三国谍影](https://github.com/william-hyx/books/issues/38) (完成)
 - [本案告破](https://github.com/william-hyx/books/issues/39) (完成)
 
@@ -91,3 +90,4 @@
 - [深度学习入门](https://github.com/william-hyx/books/issues/51)
 - [AI Agent 开发与应用：基于大模型的智能体构建](https://github.com/hH-yY-xX/books/issues/113)
 - [LangChain核心技术与LLM项目实践](https://github.com/hH-yY-xX/books/issues/114)
+- [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
