@@ -43,11 +43,9 @@
 - [法医秦明：第十一根手指](https://github.com/william-hyx/books/issues/76)（完成）
 - [法医秦明：清道夫](https://github.com/william-hyx/books/issues/77)（完成）
 - [法医秦明：幸存者](https://github.com/william-hyx/books/issues/78)（完成）
-- [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
 - [饥饿的盛世：乾隆时代的得与失](https://github.com/william-hyx/books/issues/65)（完成）
 - [打开心智](https://github.com/william-hyx/books/issues/81)（完成）
 - [妈妈教的数学](https://github.com/william-hyx/books/issues/83)（完成）
-- [做孩子最好的英语学习规划师](https://github.com/william-hyx/books/issues/84)
 - [软技能：代码之外的生存指南](https://github.com/william-hyx/books/issues/85)（完成）
 - [软技能2：软件开发者职业生涯指南](https://github.com/william-hyx/books/issues/86)（X）
 - [人际的奥秘：曾仕强告诉你如何搞好人际关系](https://github.com/william-hyx/books/issues/87)（完成）
@@ -91,3 +89,5 @@
 - [AI Agent 开发与应用：基于大模型的智能体构建](https://github.com/hH-yY-xX/books/issues/113)
 - [LangChain核心技术与LLM项目实践](https://github.com/hH-yY-xX/books/issues/114)
 - [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
+- [做孩子最好的英语学习规划师](https://github.com/william-hyx/books/issues/84)
+- [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
