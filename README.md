@@ -91,3 +91,4 @@
 - [真希望我父母读过这本书](https://github.com/william-hyx/books/issues/5)
 - [做孩子最好的英语学习规划师](https://github.com/william-hyx/books/issues/84)
 - [GeoTools 地理信息系统开发](https://github.com/william-hyx/books/issues/79)
+- [燃烧的真相：侯小柯刑侦笔记（1-2册）](https://github.com/william-hyx/books/issues/115)
